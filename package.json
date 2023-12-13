@@ -18,6 +18,8 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.32"
+    "open-props": "^1.6.16",
+    "postcss": "^8.4.32",
+    "postcss-jit-props": "^1.0.14"
   }
 }
